@@ -1,0 +1,7 @@
+First off, their interface could use some work. Had to type in most (all) of the code to generate the diagram. 
+Overall, the Umple code is a lot more complicated than what I did. It tried filling up the methods with what it 
+thought it needed, and created other methods.
+
+Umple could be useful for explaining code to clients who don't program, as it would give them a visual representation
+of what is happening. For a programmer, it might be helpful to imagine what the class/function/method would look like 
+after being created. It is also very robust since it can do many languages. 

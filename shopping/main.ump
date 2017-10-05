@@ -1,0 +1,19 @@
+class Customer
+{
+  String name;
+}
+
+class Account
+{
+  int accountNumber;
+  1 -- 1 Customer;
+  1 -- * Order; 
+   
+}
+
+class Order
+{
+  String shippingDate;
+  String arrivalDate;
+  
+}
